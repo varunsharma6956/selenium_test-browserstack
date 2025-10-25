@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-10-25T16:28:46.212853",
+  "total_articles": 5,
+  "articles": [
+    {
+      "index": 1,
+      "title": "El péndulo de Trump mira a Kiev",
+      "content": "El presidente estadounidense abandona ahora su preocupante equidistancia para presionar a Putin con sanciones económicas",
+      "author": "",
+      "date": "",
+      "url": "https://elpais.com/opinion/editoriales/",
+      "image_url": "",
+      "image_path": "",
+      "title_english": "Trump's pendulum looks to kyiv"
+    },
+    {
+      "index": 2,
+      "title": "Avances que no sean unilaterales",
+      "content": "Cualquier cambio legal que amplíe derechos como el permiso de fallecimiento debería ser fruto de un gran acuerdo entre los agentes sociales para su viabilidad y su futuro",
+      "author": "",
+      "date": "",
+      "url": "https://elpais.com/opinion/editoriales/",
+      "image_url": "",
+      "image_path": "",
+      "title_english": "Advances that are not unilateral"
+    },
+    {
+      "index": 3,
+      "title": "Cuantas menos cartas, más sobres",
+      "content": "Apenas escribimos misivas en papel, y en España sus envoltorios ya son símbolos de corrupción",
+      "author": "LOLA PONS RODRÍGUEZ",
+      "date": "25 OCT 2025 - 05:30 CEST",
+      "url": "https://elpais.com/opinion/tribunas/",
+      "image_url": "",
+      "image_path": "",
+      "title_english": "The fewer cards, the more envelopes"
+    },
+    {
+      "index": 4,
+      "title": "El que roba al ladrón",
+      "content": "Queremos que la pasión súbita no sea castigada y que los atracadores magistrales que usan el talento y no la violencia se salgan con la suya",
+      "author": "ANTONIO MUÑOZ MOLINA",
+      "date": "25 OCT 2025 - 05:30 CEST",
+      "url": "https://elpais.com/autor/antonio-munoz-molina/",
+      "image_url": "https://imagenes.elpais.com/resizer/v2/RT36YC6RURFXLP56CBRZR5CQ24.jpg?auth=aa3bc4618e6ebbc9fbd7aa05271d494bf09a6261a71184af2af80c4e5bde092c&width=414",
+      "image_path": "D:\\selenium_test-browserstack-main\\selenium_elpais\\output\\images\\article_4.jpg",
+      "title_english": "He who steals from the thief"
+    },
+    {
+      "index": 5,
+      "title": "‘Santuarios climáticos: toldos’",
+      "content": "Con el aumento de las temperaturas y la falta de refugios climáticos accesibles, las clases trabajadoras recurren a soluciones sencillas y efectivas. En la costa mediterránea española, los toldos se multiplican en las fachadas de los grandes edificios frente al mar, convertidos en una defensa cotidiana frente al calor",
+      "author": "",
+      "date": "20 OCT 2025 - 05:45 CEST",
+      "url": "https://elpais.com/opinion/",
+      "image_url": "https://imagenes.elpais.com/resizer/v2/BO75GMC5ZVHUZN56S4GAFVJKLI.JPG?auth=811cbc3d297264430413a4fe26c79b60ccb54f7aed116a7e39927581a9abbc43&width=414&height=233&smart=true",
+      "image_path": "D:\\selenium_test-browserstack-main\\selenium_elpais\\output\\images\\article_5.jpg",
+      "title_english": "'Climate sanctuaries: awnings'"
+    }
+  ],
+  "analysis": {
+    "word_frequency": {
+      "the": 3
+    },
+    "total_articles": 5,
+    "total_words_analyzed": 26
+  }
+}
